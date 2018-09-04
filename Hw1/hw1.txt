@@ -1,0 +1,24 @@
+Xiao Jing Jiang
+CSCI 104
+
+Problem 1
+Part (a): 1, 4
+Part (b): 2, 3, 4, 5
+Part (c): 2, 3
+Part (d): 4
+
+Problem 2:
+Part(a): 3
+
+Part(b):
+1. 
+git add hw1q2b.cpp
+git commit -m "committing hw1q2b using git"
+
+2.
+git log
+
+Part(c):
+git will prompt you for a message because every commit
+must have a message.
+
